@@ -1,0 +1,7 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\LineasArchivos\ContadorDeLineas\obj\Debug\ContadorDeLineas.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\LineasArchivos\ContadorDeLineas\obj\Debug\ContadorDeLineas.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\LineasArchivos\ContadorDeLineas\bin\Debug\ContadorDeLineas.exe.config
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\LineasArchivos\ContadorDeLineas\bin\Debug\ContadorDeLineas.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\LineasArchivos\ContadorDeLineas\bin\Debug\ContadorDeLineas.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\LineasArchivos\ContadorDeLineas\obj\Debug\ContadorDeLineas.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\LineasArchivos\ContadorDeLineas\obj\Debug\ContadorDeLineas.pdb

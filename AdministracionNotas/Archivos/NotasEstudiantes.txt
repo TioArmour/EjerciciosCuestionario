@@ -1,0 +1,32 @@
+Nombre del Estudiante PEPE
+Carrera: ETN
+Semestre: TERCERO
+Periodo de Evaluacion: PRIMER PARCIAL
+Nota Examen: 7
+Evaluación Continua: 9,25
+Nota SAGA: 7,9
+
+Nombre del Estudiante PWPe
+Carrera: SIS
+Semestre: NOVENO
+Periodo de Evaluacion: EXAMEN FINAL
+Nota Examen: 4
+Evaluación Continua: 7
+Nota SAGA: 5,2
+
+Nombre del Estudiante Omar CAstriilo
+Carrera: MEC
+Semestre: TERCERO
+Periodo de Evaluacion: SEGUNDO PARCIAL
+Nota Examen: 10
+Evaluación Continua: 9
+Nota SAGA: 9,6
+
+Nombre del Estudiante EDUARDO CHAVEZ CRUZ
+Carrera: MEC
+Semestre: CUARTO
+Periodo de Evaluacion: PRIMER PARCIAL
+Nota Examen: 7
+Evaluación Continua: 5
+Nota SAGA: 6,2
+
