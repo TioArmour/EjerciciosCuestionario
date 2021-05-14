@@ -1,0 +1,7 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\Cuestionario\FusionArchivos\FusionArchivos\bin\Debug\FusionArchivos.exe.config
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\Cuestionario\FusionArchivos\FusionArchivos\bin\Debug\FusionArchivos.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\Cuestionario\FusionArchivos\FusionArchivos\bin\Debug\FusionArchivos.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\Cuestionario\FusionArchivos\FusionArchivos\obj\Debug\FusionArchivos.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\Cuestionario\FusionArchivos\FusionArchivos\obj\Debug\FusionArchivos.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\Cuestionario\FusionArchivos\FusionArchivos\obj\Debug\FusionArchivos.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\Cuestionario\FusionArchivos\FusionArchivos\obj\Debug\FusionArchivos.pdb
